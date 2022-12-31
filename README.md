@@ -14,3 +14,4 @@ We are K66 of Hanoi University of Science and Technology, major in Data Science 
 - Pham Quang Trung
 - Truong Gia Bach
 # Files and directories in the repository
+`algorithms\backtracking`: use backtracking
