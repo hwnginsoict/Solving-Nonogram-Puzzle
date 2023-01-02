@@ -24,4 +24,6 @@ We are K66 of Hanoi University of Science and Technology, major in Data Science 
 - Truong Gia Bach
 # Files and directories in the repository
 `read_input.py`: read the input from text file to collect information.<br>
-`algorithms\backtracking.py`: use backtracking.
+`algorithms\backtracking.py`: use backtracking.<br>
+`input.py`: input file, already filled for example.<br>
+`run.py`: solve the input
