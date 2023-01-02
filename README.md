@@ -10,7 +10,7 @@ We will try to solve a puzzle with size m x n (0 < m,n < 30). The puzzle can be 
 ![ducki](https://user-images.githubusercontent.com/91714479/209899429-a10d7dd2-3392-46fe-93b3-162e5ebcd8f5.png)
 # How to run
 Create a text file for the input called `input.txt`.<br>
-Download and the file `run.py`.
+Download and run the file `run.py`.
 # Collaborators
 We are K66 of Hanoi University of Science and Technology, major in Data Science and Artificial Intelligence. Under the guidance of our lecturer, Nguyen Nhat Quang, we work together on this problem.
 - Phan Duc Hung
