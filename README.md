@@ -12,7 +12,7 @@ We will try to solve a puzzle with size m x n (0 < m,n < 30). The puzzle can be 
 Create a text file for the input called `input.txt`, the input includes:
 - First line is the size of the test (mxn).
 - Next m lines is the row information.
-- Next n lines is the column information.
+- Next n lines is the column information.<br>
 Download and run the file `run.py`.
 # Collaborators
 We are K66 of Hanoi University of Science and Technology, major in Data Science and Artificial Intelligence. Under the guidance of our lecturer, Nguyen Nhat Quang, we work together on this problem.
