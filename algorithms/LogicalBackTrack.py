@@ -5,7 +5,7 @@ import numpy as np
 import matplotlib.pyplot as plt 
 
 
-with open('rabbit.txt') as f:
+with open('input.txt') as f:
     size = f.readline()
     values = f.readlines()
 (m, n) = size.strip().split(' ')
