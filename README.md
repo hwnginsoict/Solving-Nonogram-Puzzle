@@ -30,6 +30,7 @@ We are K66 of Hanoi University of Science and Technology, major in Data Science 
 `algorithms\DFS(BackTracking).py`: use BackTracking to solve.<br>
 `algorithms\LogicalBackTrack.py`: use Logical BackTrack to solve.<br>
 `algorithms\SimulatedAnnealing.py`: use Simulated Annealing to solve.<br>
+`datasets`: folder with available tests that we use to test all algorithms.<br>
 `input.py`: input file, already filled for example.<br>
 `input.txt`: the text file to collect input.<br>
 `run.py`: solve the input
