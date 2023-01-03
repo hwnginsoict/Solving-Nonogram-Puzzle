@@ -24,6 +24,11 @@ We are K66 of Hanoi University of Science and Technology, major in Data Science 
 - Truong Gia Bach
 # Files and directories in the repository
 `read_input.py`: read the input from text file to collect information.<br>
-`algorithms\backtracking.py`: use backtracking.<br>
+`PuzzleGenerator.py`: generate random puzzle.<br>
+`algorithms\ConstraintProgramming.py`: use Constraint Programming to solve.<br>
+`algorithms\DFS(BackTracking).py`: use BackTracking to solve.<br>
+`algorithms\LogicalBackTrack.py`: use Logical BackTrack to solve.<br>
+`algorithms\SimulatedAnnealing.py`: use Simulated Annealing to solve.<br>
 `input.py`: input file, already filled for example.<br>
+`input.txt`: the text file to collect input.<br>
 `run.py`: solve the input
